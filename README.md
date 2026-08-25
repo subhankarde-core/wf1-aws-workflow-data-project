@@ -1,1 +1,1 @@
-# wf1ws-data-project
+# wf1-workflow-aws-data-project
